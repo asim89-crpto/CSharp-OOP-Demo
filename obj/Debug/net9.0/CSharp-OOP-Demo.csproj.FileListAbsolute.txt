@@ -12,3 +12,4 @@ D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\refint\CSharp-OOP-Demo.dll
 D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.pdb
 D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.genruntimeconfig.cache
 D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\ref\CSharp-OOP-Demo.dll
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.sourcelink.json
