@@ -1,0 +1,14 @@
+D:\source\repos\CSharp-OOP-Demo\bin\Debug\net9.0\CSharp-OOP-Demo.exe
+D:\source\repos\CSharp-OOP-Demo\bin\Debug\net9.0\CSharp-OOP-Demo.deps.json
+D:\source\repos\CSharp-OOP-Demo\bin\Debug\net9.0\CSharp-OOP-Demo.runtimeconfig.json
+D:\source\repos\CSharp-OOP-Demo\bin\Debug\net9.0\CSharp-OOP-Demo.dll
+D:\source\repos\CSharp-OOP-Demo\bin\Debug\net9.0\CSharp-OOP-Demo.pdb
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.AssemblyInfoInputs.cache
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.AssemblyInfo.cs
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.csproj.CoreCompileInputs.cache
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.dll
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\refint\CSharp-OOP-Demo.dll
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.pdb
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\CSharp-OOP-Demo.genruntimeconfig.cache
+D:\source\repos\CSharp-OOP-Demo\obj\Debug\net9.0\ref\CSharp-OOP-Demo.dll
